@@ -7,9 +7,11 @@ langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
+pinecone
 
 -e .
 
 langchain
 langchain-community
 groq
+sentence-transformers
